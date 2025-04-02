@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m collaborate on **FieldMapperPro with friends**
-
 - 🤝 I’m looking for a first job **in the programming area**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DEVRHC](https://github.com/DEVRHC)
