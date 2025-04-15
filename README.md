@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a I.T company**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Frameworks**
 
-- 🤝 I’m looking for a first job **in the programming area**
+- 🤝 I’m looking for a first job **in developer area**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DEVRHC](https://github.com/DEVRHC)
 
