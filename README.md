@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael Cardoso</h1>
 <h3 align="center">I'm software development student</h3>
 
-- 🔭 I’m currently working on **a I.T company**
+- 🤝 I’m currently working on **a I.T company**
 
 - 🌱 I’m currently learning **Python and Frameworks**
 
-- 🤝 I’m looking for a first job **in developer area**
+- 🔭 I’m looking for a first job **in developer area**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DEVRHC](https://github.com/DEVRHC)
 
