@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Cardoso</h1>
 <h3 align="center">I'm software development student</h3>
 
-- 🤝 I’m currently working on **a I.T company**
+- 🤝 I’m currently working on **a I.T company - N2 I.T Support**
 
 - 🌱 I’m currently learning **Python and Frameworks**
 
