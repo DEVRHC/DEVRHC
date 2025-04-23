@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rafael Cardoso</h1>
 <h3 align="center">I'm software development student</h3>
 
-- 🤝 I’m currently working on **a I.T company - N2 I.T Support**
+## 🤝 I’m currently working on **a I.T company - N2 I.T Support**
 
-- 🌱 I’m currently learning **Python and Frameworks**
+## 🌱 I’m currently learning **Python and Frameworks**
 
-- 🔭 I’m looking for a first job **in developer area**
+## 🔭 I’m looking for a first job **in developer area**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DEVRHC](https://github.com/DEVRHC)
+## 👨‍💻 All of my projects are available at [https://github.com/DEVRHC](https://github.com/DEVRHC)
 
-- 📫 How to reach me **rafaelhcardoso1996@gmail.com**
+## 📫 How to reach me **rafaelhcardoso1996@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/devrhc/](https://www.linkedin.com/in/devrhc/)
+## 📄 Know about my experiences [https://www.linkedin.com/in/devrhc/](https://www.linkedin.com/in/devrhc/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
