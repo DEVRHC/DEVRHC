@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rafael Cardoso</h1>
 <h2 align="center">I'm software development student</h2>
 
+ 🎓 Graduating in Computer Science with a focus on back-end development
+ 
+ 🛠️ 4 years of experience in diagnosing, maintaining and resolving technical issues 
+
+ 💻 Customer support and operating system configuration 
+
+ 🌐 Network and server administration 
+
+ 🔄 Virtualization and backup solutions
+
+ 🔑 SQLite and SQLAlchemy for database management 
+
+ ⚙️ Familiarity with systems integration and process automation technologies 
+
  🤝 I’m currently working on **a I.T company - N2 I.T Support**
 
- 🌱 I’m currently learning **Python and Frameworks**
+ 🌱 I’m currently learning **Python and Flask Framework**
 
  🔭 I’m looking for a first job **in developer area**
 
