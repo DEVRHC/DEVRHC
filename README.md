@@ -9,23 +9,17 @@
 
  🌐 Network and server administration 
 
- 🔄 Virtualization and backup solutions
-
- 🔑 SQLite and SQLAlchemy for database management 
+ 🔄 Virtualization and backup solutions 
 
  ⚙️ Familiarity with systems integration and process automation technologies 
 
  🤝 I’m currently working on **a I.T company - N2 I.T Support**
 
- 🌱 I’m currently learning **Python and Flask Framework**
-
  🔭 I’m looking for a first job **in developer area**
 
  👨‍💻 All of my projects are available at [https://github.com/DEVRHC](https://github.com/DEVRHC)
 
- 📫 How to reach me **rafaelhcardoso1996@gmail.com**
-
- 📄 Know about my experiences [https://www.linkedin.com/in/devrhc/](https://www.linkedin.com/in/devrhc/)
+ 📫 e-mail **rafaelhcardoso1996@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
