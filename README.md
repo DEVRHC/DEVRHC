@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael Cardoso</h1>
+<h1 align="center">Hi 👋 I'm Rafael Cardoso</h1>
 <h2 align="center">I'm software development student</h2>
 
  🎓 Graduating in Computer Science with a focus on back-end development
@@ -13,7 +13,7 @@
 
  ⚙️ Familiarity with systems integration and process automation technologies 
 
- 🤝 I’m currently working on **a I.T company - N2 I.T Support**
+ 🤝 I’m currently working on **a I.T company - L2 I.T Support**
 
  🔭 I’m looking for a first job **in developer area**
 
