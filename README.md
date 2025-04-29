@@ -36,6 +36,10 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.python.org/"><img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"><a target="_blank" rel="noopener noreferrer nofollow"href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sqlalchemy.org/"><img src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"></a>
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width: 100%;"></a>
+</p>
+
 
 
 
