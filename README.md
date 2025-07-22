@@ -17,7 +17,7 @@
 
  🔭 I’m looking for a first job **in developer area**
 
- 👨‍💻 All of my projects are available at [https://github.com/DEVRHC](https://github.com/DEVRHC)
+ 👨‍💻 All of my projects are available here
 
  📫 e-mail **rafaelhcardoso1996@gmail.com**
 
