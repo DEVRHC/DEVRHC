@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-🤝 Currently working at <b>an I.T company – L2 I.T Support</b><br>
+🤝 I currently work at a port operations company – IT infrastructure assistant.</b><br>
 🔭 Seeking my <b>first opportunity as a Back-end Developer</b><br>
 👨‍💻 Building projects focused on <b>Python, Flask and Databases</b><br>
 📫 Contact: <b>rafaelhcardoso1996@gmail.com</b>
